@@ -1,5 +1,5 @@
 // Code Invitation Component Here
-import React from 'react' 
+import React from 'react'
 
 class Invitation extends React.Component {
   render() {
@@ -11,3 +11,5 @@ class Invitation extends React.Component {
     )
   }
 }
+
+export default Invitation 
